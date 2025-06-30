@@ -30,7 +30,7 @@ Transform any YouTube video into a concise, comprehensive study guide using AI.
 1. **Clone this repo**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/lecturesummarizer.git
+   git clone https://github.com/koushikkb12/lecturesummarizer.git
    cd lecturesummarizer
    ```
 
@@ -51,7 +51,8 @@ Transform any YouTube video into a concise, comprehensive study guide using AI.
 
    ```bash
    # In a separate terminal
-   uvicorn main:app --reload
+   d youtube-summarizer-backend
+   uvicorn main:app --reload --port 8000
    ```
 
 5. Open [http://localhost:3000](http://localhost:3000) and start summarizing!
@@ -63,7 +64,7 @@ Transform any YouTube video into a concise, comprehensive study guide using AI.
 ```
 .
 ├── youtube-summarizer-frontend/   # Next.js frontend
-├── backend/                       # FastAPI backend
+├── youtube-summarizer-backend/    # FastAPI backend
 ├── README.md                      # Project README
 ```
 
