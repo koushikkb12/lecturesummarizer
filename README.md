@@ -51,7 +51,7 @@ Transform any YouTube video into a concise, comprehensive study guide using AI.
 
    ```bash
    # In a separate terminal
-   d youtube-summarizer-backend
+   cd youtube-summarizer-backend
    uvicorn main:app --reload --port 8000
    ```
 
