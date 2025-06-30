@@ -8,11 +8,11 @@ Transform any YouTube video into a concise, comprehensive study guide using AI.
 
 ### 🚀 **Features**
 
-✅ Enter a YouTube URL and generate a summary
-✅ Supports multiple output languages (e.g., English, Tamil)
-✅ Displays video details (title, duration, ID)
-✅ Provides transcript statistics (word count, chunk count)
-✅ Copy summary to clipboard or download as Markdown
+* ✅ Enter a YouTube URL and generate a summary
+* ✅ Supports multiple output languages (e.g., English, Tamil)
+* ✅ Displays video details (title, duration, ID)
+* ✅ Provides transcript statistics (word count, chunk count)
+* ✅ Copy summary to clipboard or download as Markdown
 
 ---
 
